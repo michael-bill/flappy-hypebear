@@ -1,2 +1,2 @@
 # flappy-hypebear
-Flappy HYPEBEAR by hulumulumulus
+Flappy HYPEBEAR game by hulumulumulus for HYPEBEARS
