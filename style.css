@@ -1,0 +1,9 @@
+* {
+    margin: 2px;
+}
+body {
+    font-family: monospace;
+}
+canvas {
+    border: 1px solid black;
+}
